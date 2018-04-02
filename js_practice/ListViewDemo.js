@@ -138,4 +138,4 @@ const styles = StyleSheet.create({
     },
 });
 
-AppRegistry.registerComponent('Demo_1', () => ListViewDemo);
+// AppRegistry.registerComponent('Demo_1', () => ListViewDemo);
